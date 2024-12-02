@@ -1,0 +1,8 @@
+a=0
+b=1
+print(a,end=''
+while True:
+  print(b,end='')
+temp=a+b
+a=b
+b=temp
